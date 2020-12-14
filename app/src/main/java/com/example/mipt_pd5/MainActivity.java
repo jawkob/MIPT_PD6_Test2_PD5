@@ -15,7 +15,6 @@ import java.util.regex.Pattern;
 
 public class MainActivity extends AppCompatActivity {
 
-    String sourcedump;
     TextView tvCovid;
 
     protected void onCreate(Bundle savedInstanceState) {
